@@ -3,7 +3,7 @@ import time
 import requests
 import numpy as np
 # --- Configuration du Bot Telegram ---
-TOKEN = "7876431851:AAEUeICZo-Fqdnd0IVVdiA7zAfzNxL2NIAA"
+TOKEN = ""
 CHAT_ID = "7299550792"  # L'id du destinataire (l'utilisateur doit avoir démarré la conversation)
 
 def send_telegram_photo(image_path):
